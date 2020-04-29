@@ -1,7 +1,9 @@
 # First Project Node.js - Bootcamp
 
-Starting the first weekf of bootcamp.
-- Need to fill up
+Starting the part of one of the biggest projects called GoBarber
+
+## 📺 What I learned
+Authenticated | Services | Repositories | Models | Upload Images
 
 ## Instructions
 
@@ -17,13 +19,12 @@ Once you've got Node installed:
 * `git clone git@github.com/Igorth/first-project-node-bootcamp`
 * `cd first-project-node-bootcamp`
 * `yarn` to install dependencies
-* `yarn dev` to start the project
-* Check out the repo to see the git history: `https://github.com/Igorth/first-project-node-bootcamp`
+* `yarn dev:server` to start the project
 
 
-## Authors
+## Author
 
-* **Igor Dias** - *Initial work*
+* [**Igor Dias**](https://www.linkedin.com/in/igordiasth/)
 
 
 ## License
