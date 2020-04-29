@@ -1,4 +1,5 @@
 # First Project Node.js - Bootcamp
+![](https://img.shields.io/github/license/Igorth/first-project-node-bootcamp)
 
 Starting the part of one of the biggest projects called GoBarber
 
@@ -22,7 +23,7 @@ Once you've got Node installed:
 * `yarn dev:server` to start the project
 
 
-## Author
+## 👤Author
 
 * [**Igor Dias**](https://www.linkedin.com/in/igordiasth/)
 
